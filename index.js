@@ -11,7 +11,7 @@ const courses= require('./data/courses.json')
 const course=require('./data/course.json')
 
 app.get('/',(req,res)=>{
-    res.send("News Api Running")
+    res.send("Course Api Running")
 });
 app.get('/course-courses', (req, res) => {
     res.send(courses)
@@ -22,7 +22,7 @@ app.get('/single-course/:id',(req,res)=>{
 res.send(course)
     }
     else{
-        const singleCourseCourse=course.filter(n=>n.category_id ===id);
+        const singleCourseCourse=course.filter(n=>n.course_id ===id);
         res.send(singleCourseCourse)
     }
     
