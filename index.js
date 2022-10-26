@@ -7,8 +7,8 @@ const cors = require('cors');
 
 app.use(cors());
 
-const topics= require('./data/topics.json');
-const topicsDetails = require('./data/topicDetails.json');
+const topics= require('./data/course.json');
+const topicsDetails = require('./data/coursesDetails.json');
 
 
 app.get('/', (req, res) => {

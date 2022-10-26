@@ -1,0 +1,416 @@
+[
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "category_id": "01",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 488,
+    "title": "To output values or print text in C, you can use the printf() function:",
+    "image_url": "https://bs-uploads.toptal.io/blackfish-uploads/components/blog_post_page/content/cover_image_file/cover_image/687167/retina_1708x683_cover-0828_AfterAllTheseYearstheWorldisStillPoweredbyCProgramming_Razvan_Newsletter-2b9ea38294bb08c5aea1f0c1cb06732f.png",
+
+    "details": "In this tutorial, you will learn to use scanf() function to take input from the user, and printf() function to display output to the user."
+  },
+  {
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "category_id": "03",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 488,
+    "title": "cout in C++",
+
+
+    "image_url": "http://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2017/06/Python-Programming-Edureka.png",
+    "details": "The cout object in C++ is an object of class ostream. It is defined in iostream header file. It is used to display the output to the standard output device i.e. monitor. It is associated with the standard C output stream stdout. The data needed to be displayed on the screen is inserted in the standard output stream (cout) using the insertion operator(<<)."
+  },
+
+  {
+    "_id": "f69a695f037cd9484cecaea37ca71011",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "category_id": "01",
+    "rating": { "number": 4.8, "badge": "Excellent" },
+    "total_view": 400,
+    "title": "Function prototype",
+
+    "image_url": "https://bs-uploads.toptal.io/blackfish-uploads/components/blog_post_page/content/cover_image_file/cover_image/687167/retina_1708x683_cover-0828_AfterAllTheseYearstheWorldisStillPoweredbyCProgramming_Razvan_Newsletter-2b9ea38294bb08c5aea1f0c1cb06732f.png",
+    "details": "A function prototype is simply the declaration of a function that specifies function's name, parameters and return type. It doesn't contain function body.A function prototype gives information to the compiler that the function may later be used in the program."
+  },
+  {
+    "_id": "f69a695f037cd9484cecaea37ca71012",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "category_id": "02",
+    "rating": { "number": 4.3, "badge": "Excellent" },
+    "total_view": 400,
+    "title": "In this tutorial, we will learn about the C++ function and function expressions with the help of examples.",
+
+    "image_url": "https://cdn.dribbble.com/users/46200/screenshots/4107676/cpp_dribble_1.png",
+    "details": "A function is a block of code that performs a specific task.Suppose we need to create a program to create a circle and color it. We can create two functions to solve this problem:A function to draw the circle , A function to color the circle.Dividing a complex problem into smaller chunks makes our program easy to understand and reusable.There are two types of function:1.Standard Library Functions: Predefined in C++. 2.User-defined Function: Created by users"
+  },
+
+  {
+    "_id": "11468ed61aee84de492a8b04158a22f9",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": false
+    },
+    "category_id": "03",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 980,
+    "title": "What is a function in Python?",
+
+    "image_url": "http://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2017/06/Python-Programming-Edureka.png",
+    "details": "In Python, a function is a group of related statements that performs a specific task.Functions help break our program into smaller and modular chunks. As our program grows larger and larger, functions make it more organized and manageable.Furthermore, it avoids repetition and makes the code reusable."
+  },
+  {
+    "_id": "11468ed61aee84de492a8b04158a22f0",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": false
+    },
+    "category_id": "01",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 980,
+    "title": "Function definition",
+
+    "image_url": "https://bs-uploads.toptal.io/blackfish-uploads/components/blog_post_page/content/cover_image_file/cover_image/687167/retina_1708x683_cover-0828_AfterAllTheseYearstheWorldisStillPoweredbyCProgramming_Razvan_Newsletter-2b9ea38294bb08c5aea1f0c1cb06732f.png",
+    "details": "Function definition contains the block of code to perform a specific task. In our example, adding two numbers and returning it.When a function is called, the control of the program is transferred to the function definition. And, the compiler starts executing the codes inside the body of a function."
+  },
+
+  {
+    "_id": "2e78e5e0310c2e9adbb6efb1a263e745",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "category_id": "02",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": null,
+    "title": "Return Statement",
+
+    "image_url": "https://cdn.dribbble.com/users/46200/screenshots/4107676/cpp_dribble_1.png",
+    "details": "In the above programs, we have used void in the function declaration. For example,This means the function is not returning any value.It's also possible to return a value from a function. For this, we need to specify the returnType of the function during function declaration.Then, the return statement can be used to return a value from a function."
+  },
+
+  {
+    "_id": "a713ee936ff5574273f0f769f5c5b20e",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "category_id": "03",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 111,
+    "title": "Docstrings",
+
+    "image_url": "http://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2017/06/Python-Programming-Edureka.png",
+    "details": "The first string after the function header is called the docstring and is short for documentation string. It is briefly used to explain what a function does.Although optional, documentation is a good programming practice. Unless you can remember what you had for dinner last week, always document your code.In the above example, we have a docstring immediately below the function header. We generally use triple quotes so that docstring can extend up to multiple lines. This string is available to us as the __doc__ attribute of the function."
+  },
+
+  {
+    "_id": "e342b6c0c8efc8ca9e811991dc8a7900",
+    "others_info": {
+      "is_todays_pick": true,
+      "is_trending": false
+    },
+    "category_id": "04",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 733,
+    "title": "Java if...else (if-then-else) Statement",
+
+    "image_url": "https://cdn.codegym.cc/images/article/ddb7fe1b-d163-4e5a-8ca8-415c56dbca59/800.jpeg",
+    "details": "The if statement executes a certain section of code if the test expression is evaluated to true. However, if the test expression is evaluated to false, it does nothing.In this case, we can use an optional else block. Statements inside the body of else block are executed if the test expression is evaluated to false. This is known as the if-...else statement in Java.Here, the program will do one task (codes inside if block) if the condition is true and another task (codes inside else block) if the condition is false."
+  },
+  {
+    "_id": "e342b6c0c8efc8ca9e811991dc8a7901",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": false
+    },
+    "category_id": "04",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 733,
+    "title": "break statement in Java switch...case",
+
+    "image_url": "https://cdn.codegym.cc/images/article/ddb7fe1b-d163-4e5a-8ca8-415c56dbca59/800.jpeg",
+    "details": "Notice that we have been using break in each case block.The break statement is used to terminate the switch-case statement. If break is not used, all the cases after the matching case are also executed. For example,In the above example, expression matches with case 2. Here, we haven't used the break statement after each case.Hence, all the cases after case 2 are also executed.his is why the break statement is needed to terminate the switch-case statement after the matching case. To learn more, visit Java break Statement."
+  },
+
+  {
+    "_id": "f06f8cc035b04bd1158e4198281915a3",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "category_id": "05",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 127,
+    "title": "PHP - Constants Types",
+
+    "image_url": "https://www.biz4group.com/images/why-choose-php-programming-language-for-web-development.jpg",
+    "details": "A constant is a name or an identifier for a simple value. A constant value cannot change during the execution of the script. By default, a constant is case-sensitive. By convention, constant identifiers are always uppercase. A constant name starts with a letter or underscore, followed by any number of letters, numbers, or underscores. If you have defined a constant, it can never be changed or undefined.To define a constant you have to use define() function and to retrieve the value of a constant, you have to simply specifying its name. Unlike with variables, you do not need to have a constant with a $. You can also use the function constant() to read a constant's value if you wish to obtain the constant's name dynamically."
+  },
+  {
+    "_id": "f06f8cc035b04bd1158e4198281915a4",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "category_id": "05",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 127,
+    "title": "PHP - Loop Types",
+
+    "image_url": "https://www.biz4group.com/images/why-choose-php-programming-language-for-web-development.jpg",
+    "details": "Loops in PHP are used to execute the same block of code a specified number of times. PHP supports following four loop types.for − loops through a block of code a specified number of times.while − loops through a block of code if and as long as a specified condition is true.do...while − loops through a block of code once, and then repeats the loop as long as a special condition is true.foreach − loops through a block of code for each element in an array."
+  },
+
+  {
+    "_id": "cd2b53655737cc4077542baea9f8f75d",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "category_id": "02",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 700,
+    "title": "C++ Arrays",
+
+    "image_url": "https://cdn.dribbble.com/users/46200/screenshots/4107676/cpp_dribble_1.png",
+    "details": "In this tutorial, we will learn to work with arrays. We will learn to declare, initialize, and access array elements in C++ programming with the help of examples.In C++, an array is a variable that can store multiple values of the same type. For example,Suppose a class has 27 students, and we need to store the grades of all of them. Instead of creating 27 separate variables, we can simply create an array:Here, grade is an array that can hold a maximum of 27 elements of double tIn C++, the size and type of arrays cannot be changed after its declaration."
+  },
+
+  {
+    "_id": "7c4dfea0fafddc813673282a428429b7",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "category_id": "01",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 0,
+    "title": "C Arrays",
+
+    "image_url": "https://bs-uploads.toptal.io/blackfish-uploads/components/blog_post_page/content/cover_image_file/cover_image/687167/retina_1708x683_cover-0828_AfterAllTheseYearstheWorldisStillPoweredbyCProgramming_Razvan_Newsletter-2b9ea38294bb08c5aea1f0c1cb06732f.png",
+    "details": "In this tutorial, you will learn to work with arrays. You will learn to declare, initialize and access elements of an array with the help of examples."
+  },
+  {
+    "_id": "30af81e91ab3eafc0bcae0de62f55d5c",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "category_id": "01",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 320,
+    "title": "C Multidimensional Arrays",
+
+    "image_url": "https://bs-uploads.toptal.io/blackfish-uploads/components/blog_post_page/content/cover_image_file/cover_image/687167/retina_1708x683_cover-0828_AfterAllTheseYearstheWorldisStillPoweredbyCProgramming_Razvan_Newsletter-2b9ea38294bb08c5aea1f0c1cb06732f.png",
+    "details": "In this tutorial, you will learn to work with multidimensional arrays (two-dimensional and three-dimensional arrays) with the help of examples.In C programming, you can create an array of arrays. These arrays are known as multidimensional arrays. For example,Here, x is a two-dimensional (2d) array. The array can hold 12 elements. You can think the array as a table with 3 rows and each row has 4 columns."
+  },
+  {
+    "_id": "df11ff9feefc37613cc3a4486ce02151",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": false
+    },
+    "category_id": "02",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 552,
+    "title": "C++ Array With Empty Members",
+    "image_url": "https://cdn.dribbble.com/users/46200/screenshots/4107676/cpp_dribble_1.png",
+    "details": "In C++, if an array has a size n, we can store upto n number of elements in the array. However, what will happen if we store less than n number of elements.For example,Here, the array x has a size of 6. However, we have initialized it with only 3 elements.In such cases, the compiler assigns random values to the remaining places. Oftentimes, this random value is simply 0."
+  },
+
+  {
+    "_id": "374df11ae3d9b8b9ce21f4dc53f59b85",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "category_id": "01",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 798,
+    "title": "Pass arrays to a function in C",
+
+    "image_url": "https://bs-uploads.toptal.io/blackfish-uploads/components/blog_post_page/content/cover_image_file/cover_image/687167/retina_1708x683_cover-0828_AfterAllTheseYearstheWorldisStillPoweredbyCProgramming_Razvan_Newsletter-2b9ea38294bb08c5aea1f0c1cb06732f.png",
+    "details": "In this tutorial, you'll learn to pass arrays (both one-dimensional and multidimensional arrays) to a function in C programming with the help of examples.In C programming, you can pass an entire array to functions. Before we learn that, let's see how you can pass individual elements of an array to functions."
+  },
+  {
+    "_id": "acb9b6785b62698fc6130db7615965e1",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "category_id": "03",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 879,
+    "title": "The return statement",
+
+    "image_url": "http://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2017/06/Python-Programming-Edureka.png",
+    "details": "The return statement is used to exit a function and go back to the place from where it was called.This statement can contain an expression that gets evaluated and the value is returned. If there is no expression in the statement or the return statement itself is not present inside a function, then the function will return the None object.Here, None is the returned value since greet() directly prints the name and no return statement is used."
+  },
+  {
+    "_id": "be44c843d61859cc0b87cae85c55f9db",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "category_id": "01",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 231,
+    "title": "C Pointers",
+    "image_url": "https://bs-uploads.toptal.io/blackfish-uploads/components/blog_post_page/content/cover_image_file/cover_image/687167/retina_1708x683_cover-0828_AfterAllTheseYearstheWorldisStillPoweredbyCProgramming_Razvan_Newsletter-2b9ea38294bb08c5aea1f0c1cb06732f.png",
+    "details": "In this tutorial, you'll learn about pointers; what pointers are, how do you use them and the common mistakes you might face when working with them with the help of examples.Pointers are powerful features of C and C++ programming. Before we learn pointers, let's learn about addresses in C programming."
+  },
+  {
+    "_id": "1b03149c50f1bec662062d930bf46489",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "category_id": "02",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 546,
+    "title": "C++ Multidimensional Arrays",
+
+    "image_url": "https://cdn.dribbble.com/users/46200/screenshots/4107676/cpp_dribble_1.png",
+    "details": "In this tutorial, we'll learn about multi-dimensional arrays in C++. More specifically, how to declare them, access them, and use them efficiently in our program.In C++, we can create an array of an array, known as a multidimensional array"
+  },
+  {
+    "_id": "7f5b80c1cdd4df0111918883eae07349",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "category_id": "03",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "total_view": 1870,
+    "title": "Scope and Lifetime of variables",
+
+    "image_url": "http://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2017/06/Python-Programming-Edureka.png",
+    "details": "Scope of a variable is the portion of a program where the variable is recognized. Parameters and variables defined inside a function are not visible from outside the function. Hence, they have a local scope.The lifetime of a variable is the period throughout which the variable exists in the memory. The lifetime of variables inside a function is as long as the function executes.They are destroyed once we return from the function. Hence, a function does not remember the value of a variable from its previous calls."
+  },
+
+  {
+    "_id": "61f9ce168f7b15aadecb1d1fc80c72f0",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": true
+    },
+    "category_id": "05",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+
+    "total_view": 100,
+    "title": "Identifying Browser & Platform",
+    "image_url": "https://www.biz4group.com/images/why-choose-php-programming-language-for-web-development.jpg",
+    "details": "PHP creates some useful environment variables that can be seen in the phpinfo.php page that was used to setup the PHP environment.One of the environment variables set by PHP is HTTP_USER_AGENT which identifies the user's browser and operating system.PHP provides a function getenv() to access the value of all the environment variables. The information contained in the HTTP_USER_AGENT environment variable can be used to create dynamic content appropriate to the browser"
+  },
+  {
+    "_id": "61f9ce168f7b15aadecb1d1fc80c72f7",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": false
+    },
+    "category_id": "04",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+
+    "total_view": 100,
+    "title": "Java continue Statement",
+
+
+    "image_url": "https://cdn.codegym.cc/images/article/ddb7fe1b-d163-4e5a-8ca8-415c56dbca59/800.jpeg",
+    "details": "In this tutorial, you will learn about the continue statement and labeled continue statement in Java with the help of examples.While working with loops, sometimes you might want to skip some statements or terminate the loop. In such cases, break and continue statements are used.To learn about the break statement, visit Java break. Here, we will learn about the continue statement."
+  },
+  {
+    "_id": "61f9ce168f7b15aadecb1d1fc80c72f71",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": false
+    },
+    "category_id": "06",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+
+    "total_view": 100,
+    "title": "Data Types Available in MATLAB",
+
+
+    "image_url": "https://static.tumblr.com/bc6fac976dbae326fc3a1f79ecb92c28/vgxaneq/KSIo4fefv/tumblr_static_7hd8rrhm784cgs0ocsww4wggc_2048_v2.jpg",
+    "details": "MATLAB does not require any type declaration or dimension statements. Whenever MATLAB encounters a new variable name, it creates the variable and allocates appropriate memory space.MATLAB provides 15 fundamental data types. Every data type stores data that is in the form of a matrix or array. The size of this matrix or array is a minimum of 0-by-0 and this can grow up to a matrix or array of any size."
+  },
+  {
+    "_id": "61f9ce168f7b15aadecb1d1fc80c72f72",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": false
+    },
+    "category_id": "06",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+
+    "total_view": 100,
+    "title": "Arithmetic Operators",
+
+
+    "image_url": "https://static.tumblr.com/bc6fac976dbae326fc3a1f79ecb92c28/vgxaneq/KSIo4fefv/tumblr_static_7hd8rrhm784cgs0ocsww4wggc_2048_v2.jpg",
+    "details": "Matrix arithmetic operations are same as defined in linear algebra. Array operations are executed element by element, both on one-dimensional and multidimensional array.The matrix operators and array operators are differentiated by the period (.) symbol. However, as the addition and subtraction operation is same for matrices and arrays, the operator is same for both cases. The following table gives brief description of the operators "
+  },
+  {
+    "_id": "61f9ce168f7b15aadecb1d1fc80c72f73",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": false
+    },
+    "category_id": "06",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+
+    "total_view": 100,
+    "title": "MATLAB - Loop Types",
+
+
+    "image_url": "https://static.tumblr.com/bc6fac976dbae326fc3a1f79ecb92c28/vgxaneq/KSIo4fefv/tumblr_static_7hd8rrhm784cgs0ocsww4wggc_2048_v2.jpg",
+    "details": "There may be a situation when you need to execute a block of code several number of times. In general, statements are executed sequentially. The first statement in a function is executed first, followed by the second, and so on.Programming languages provide various control structures that allow for more complicated execution paths.A loop statement allows us to execute a statement or group of statements multiple times and following is the general form of a loop statement in most of the programming languages "
+  },
+  {
+    "_id": "61f9ce168f7b15aadecb1d1fc80c72f74",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": false
+    },
+    "category_id": "06",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+
+    "total_view": 100,
+    "title": "MATLAB - Matrix",
+
+
+    "image_url": "https://static.tumblr.com/bc6fac976dbae326fc3a1f79ecb92c28/vgxaneq/KSIo4fefv/tumblr_static_7hd8rrhm784cgs0ocsww4wggc_2048_v2.jpg",
+    "details": "A matrix is a two-dimensional array of numbers.n MATLAB, you create a matrix by entering elements in each row as comma or space delimited numbers and using semicolons to mark the end of each row. "
+  },
+  {
+    "_id": "61f9ce168f7b15aadecb1d1fc80c72f75",
+    "others_info": {
+      "is_todays_pick": false,
+      "is_trending": false
+    },
+    "category_id": "06",
+    "rating": { "number": 4.5, "badge": "Excellent" },
+
+    "total_view": 100,
+    "title": "MATLAB - Arrays",
+
+
+    "image_url": "https://static.tumblr.com/bc6fac976dbae326fc3a1f79ecb92c28/vgxaneq/KSIo4fefv/tumblr_static_7hd8rrhm784cgs0ocsww4wggc_2048_v2.jpg",
+    "details": "All variables of all data types in MATLAB are multidimensional arrays. A vector is a one-dimensional array and a matrix is a two-dimensional array.We have already discussed vectors and matrices. In this chapter, we will discuss multidimensional arrays. However, before that, let us discuss some special types of arrays."
+  }
+
+]
