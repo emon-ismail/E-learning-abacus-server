@@ -24,6 +24,9 @@ app.get('/course/:id', (req, res) => {
     const all_course = topicsDetails.filter(n => n.category_id === id);
     res.send(all_course );
   })
+  
+
+  
 
 
 
